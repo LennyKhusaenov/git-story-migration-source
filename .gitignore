@@ -1,0 +1,15 @@
+**/*.iml
+**/bin
+**/out
+**/target
+**/connections.properties
+**/.gradle
+**/.idea
+**/.classpath
+**/.project
+**/.settings
+**/build
+**/.factorypath
+**/*.springBeans
+**/.apt_generated/
+
