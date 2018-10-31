@@ -1,4 +1,4 @@
-package edu.khusaenov.service;
+package edu.khusaenov.domain;
 
 
 import lombok.Getter;
